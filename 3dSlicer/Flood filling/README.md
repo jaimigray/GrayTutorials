@@ -17,3 +17,13 @@
 - Click the **Show 3D** button to display your new segment in the 3D window
 <img src='https://github.com/jaimigray/GrayTutorials/blob/main/3dSlicer/Tutorial%20images/tutorial%20images/Slide4.JPG?raw=true'>
 
+## To flood fill inside ROIs
+
+- for **ROI** select **create new ROI** or click the **create new ROI** button in the markups toolbar
+<img src='https://github.com/jaimigray/GrayTutorials/blob/main/3dSlicer/Tutorial%20images/tutorial%20images/Slide6.JPG?raw=true'>
+- With the **Flood filling** tool selected, use the drop down menu to select the ROI you just created
+<img src='https://github.com/jaimigray/GrayTutorials/blob/main/3dSlicer/Tutorial%20images/tutorial%20images/Slide7.JPG?raw=true'>
+
+- click on your material of interest inside your ROI. This should flood fill using your selected **Intensity tolerance** and stop when it reaches the boundaries of the ROI
+<img src='https://github.com/jaimigray/GrayTutorials/blob/main/3dSlicer/Tutorial%20images/tutorial%20images/Slide8.JPG?raw=true'>
+
